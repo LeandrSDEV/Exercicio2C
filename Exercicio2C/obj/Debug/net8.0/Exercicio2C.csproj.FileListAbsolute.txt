@@ -1,0 +1,15 @@
+L:\C#\Exercicio2C\bin\Debug\net8.0\Exercicio2C.exe
+L:\C#\Exercicio2C\bin\Debug\net8.0\Exercicio2C.deps.json
+L:\C#\Exercicio2C\bin\Debug\net8.0\Exercicio2C.runtimeconfig.json
+L:\C#\Exercicio2C\bin\Debug\net8.0\Exercicio2C.dll
+L:\C#\Exercicio2C\bin\Debug\net8.0\Exercicio2C.pdb
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.AssemblyInfoInputs.cache
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.AssemblyInfo.cs
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.csproj.CoreCompileInputs.cache
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.sourcelink.json
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.dll
+L:\C#\Exercicio2C\obj\Debug\net8.0\refint\Exercicio2C.dll
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.pdb
+L:\C#\Exercicio2C\obj\Debug\net8.0\Exercicio2C.genruntimeconfig.cache
+L:\C#\Exercicio2C\obj\Debug\net8.0\ref\Exercicio2C.dll
